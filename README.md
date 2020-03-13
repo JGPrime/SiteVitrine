@@ -1,5 +1,4 @@
 # SiteVitrine
-Grunt demo
 
 Requirements
 Node and npm (see NodeJS
