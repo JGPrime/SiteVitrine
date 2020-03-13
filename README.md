@@ -12,9 +12,6 @@ Included tasks
 Workflows
 These are high level tasks that build up common work flows in development.
 
-grunt jshint
-Clean all temporary and release files:
-
 Package.json
 
 {
